@@ -1,2 +1,4 @@
 # Telescopy-example
-Example files for https://t.me/TelescopyBot
+Example files for https://github.com/Kylmakalle/Telescopy
+
+[@TelescopyBot](https://t.me/TelescopyBot)
